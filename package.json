@@ -1,0 +1,19 @@
+{
+  "name": "dhmovies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaloGodoy/DH-movies-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaloGodoy/DH-movies-/issues"
+  },
+  "homepage": "https://github.com/GonzaloGodoy/DH-movies-#readme"
+}
